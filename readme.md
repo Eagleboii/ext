@@ -34,7 +34,12 @@ https://developer.chrome.com/docs/extensions/mv2/tut_debugging/
 You need to add your specific redirect uri consistent, of your individual app ID (see ID in chrome://extensions/ tab under ezeep Blue extension) and .chromiumapp.org/oauth2, to the auth client.
 Example: https://oelgbfobbpjofhnidwadwadmigkbfohpki.chromiumapp.org/oauth2
 
-To switch to any other env than prod, take a environment.dev/test/stg.json from /environments and copy it to /data, renaming it to environment.json whilst keeping the original environment.json for switching back when you are done.
+## redirect urls set in the backend and clientID:
 
-To open dev tools of background.js click on "Hintergrundseite" in chrome://extensions/ tab.
-To open options.js, right click and inspect on the actual extension background.
+https://eojfkbfdagabbigkmobgomamcmhbboof.chromiumapp.org/oauth2
+https://dkbkbofcmoncdiiocgfdmojelimgjfpn.chromiumapp.org/oauth2
+https://cjmopihpekddjpbjpoejdaeoipndhkgd.chromiumapp.org/oauth2
+https://jnpdfgmcddejhlkgomaneoblhkmooeeh.chromiumapp.org/oauth2
+https://oelgbfobbpjofhniemoeamigkbfohpki.chromiumapp.org/oauth2
+
+## clientID: j6fFRUNhuksqyxZSIHSOBAVvDG3MAXhADSAwkei2
